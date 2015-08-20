@@ -1,2 +1,2 @@
-# spray_exaple
+# spray_example
 Scala/Akka/Spray Examples
